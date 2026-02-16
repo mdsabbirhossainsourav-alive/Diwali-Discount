@@ -24,6 +24,6 @@ Chef is trying to buy a gift of Rs.3000, and his voucher is of Rs. 1000. Thus, h
 1000 5000
 
 ### Output
-
 0
+
 Chef's voucher value exceeds the gift value, so he has to pay nothing.
